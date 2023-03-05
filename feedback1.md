@@ -1,7 +1,7 @@
 ### FEEDBACK Apprenant 1 ###
 
-L'ensemble du projet est bon, mention pour les méthodes qui sont bien codées, les routes fonctionnent, l'authentification et les sessions fonctionnent.
-Cependant je remarque quelques incompréhensions au niveau des routes/permissions.
+L'ensemble du projet est bon, mention pour les méthodes qui sont bien codées, les routes fonctionnent, l'authentification et les sessions fonctionnent ce qui est une très bonne chose, tu as aussi l'air d'avoir bien saisi le fonctionnement du design pattern MVC.
+Cependant je remarque quelques soucis au niveau des routes/permissions.
 
 ### Connexion ###
 

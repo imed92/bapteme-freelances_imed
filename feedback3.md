@@ -8,6 +8,8 @@ Sans ça, il te sera impossible de mettre en place les permissions pour chaque u
 
 Je te conseille de te renseigner sur les $_SESSION sur symfony, tu peux consulter la documentation de symfony pour plus d'informations.
 
+De plus la majorité des CRUD ne sont pas codés.
+
 Néanmoins je vois que la vue profs et students sont codés. Nous allons analyser ça.
 
 #### Prof
